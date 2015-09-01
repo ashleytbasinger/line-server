@@ -1,0 +1,100 @@
+01 ricebean
+02 black-eyed pea
+03 maize
+04 scallion
+05 green bean
+06 spinach
+07 cabbage
+08 jicama
+09 bell pepper
+10 carrot
+11 onion
+12 corn
+13 plantain
+14 chickpea
+15 winter purslane
+16 courgette
+17 pumpkin
+18 quandong
+19 komatsuna
+20 basil
+21 snap peas
+22 cucumber
+23 watercress
+24 parsley
+25 amaranth
+26 tigernut
+27 silver beet
+28 blue corn
+29 fennel
+30 kale
+31 garbanzo
+32 caulie
+33 dandelion
+34 turnip
+35 salsify
+36 collard greens
+37 radish
+38 arugula
+39 sweet pepper
+40 radicchio
+41 kombu
+42 sorrel
+43 lettuce
+44 celery
+45 coriander
+46 bitterleaf
+47 epazote
+48 ramps
+49 shallot
+50 winter collard greens
+51 spring onion
+52 squash
+53 lentil
+54 artichoke
+55 salad
+56 bamboo shoot
+57 brussels sprout
+58 garlic
+59 kohlrabi
+60 potato
+61 broccoli
+62 lotus root
+63 aloe vera
+64 clover
+65 califlower
+66 chicory
+67 endive
+68 fiddlehead
+69 mustard greens
+70 bok choy
+71 samphire
+72 swiss chard
+73 wheatgrass
+74 yarrow
+75 tomatillo
+76 zucchini
+77 capers
+78 hazelnuts
+79 fava beans
+80 okra
+81 snow pea
+82 asparagus
+83 chives
+84 lemongrass
+85 leeks
+86 ginger
+87 parsnip
+88 yams
+89 rutabaga
+90 taro root
+91 tumeric
+92 seaweed
+93 mint
+94 avocado
+95 melon
+96 banana
+97 oregano
+98 paprika
+99 jalapeno
+100 sassafras
