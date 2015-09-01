@@ -5,3 +5,7 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+FILENAME = "star-wars-quotes.txt"
+# start with an empty database
+Line.delete_all
+Line.create(file_location: FILENAME)

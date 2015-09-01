@@ -15,9 +15,9 @@ ActiveRecord::Schema.define(version: 20150901165345) do
 
   create_table "lines", force: :cascade do |t|
     t.string   "line_text"
-    t.integer  "line_index", null: false
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
+    t.string   "file_location"
+    t.datetime "created_at",    null: false
+    t.datetime "updated_at",    null: false
   end
 
 end
