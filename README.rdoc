@@ -1,7 +1,7 @@
 == README
 
 How does your system work?
-When the system is first initialized, it only saves the filename as an instance of 'line.' When a client requests a line number, the '.get_line(index)' method calls 'File.readlines' on the text file and picks the requested line. The line is then returned to the controller to be parsed into JSON and sent to the client. If the line number doesn't exist, the controller responds with a short message and an HTTP 413 status.
+When the system is first initialized, it only saves the filename as an instance of 'line.' When a client requests a line number, the '.get_line(index)' method calls 'File.readlines' on the text file and picks the requested line. The line is then returned to the controller to be parsed into JSON and sent to the client. If the line number doesn't exist, the controller responds with a short message and an HTTP 413 status. Enter 'bash build.sh' to begin, and view the results on localhost:3000/lines/#{index}.
 
 How will your system perform with a 1GB file? a 10GB file? a 100GB file?
 The API should perform well regardless of how large the text file is. For testing purposes, I used a small text file of Star Wars quotes. As I only committed the file name to memory, the seed process was nearly instantaneous.
